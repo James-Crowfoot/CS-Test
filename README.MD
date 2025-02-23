@@ -1,15 +1,19 @@
 <h3>LOCAL: (Windows)</h3>
-1. Download .zip file
-2. Extract Contents
+<pre>1. Download .zip file
+2. Extract Contents</pre>
 <p>Either</p>
-3a. Open and run main.py in your python IDE of choice, such as thonny or VS Code.
+<p>3a. Open and run main.py in your python IDE of choice, such as thonny or VS Code.<p>
 <p>Or</p>
-3b. Install Latest Version of Python 3 (Available in microsoft store) if you havent already.
-Open Command Prompt/Terminal (search in start)
+<pre>3b. Install Latest Version of Python 3 (Available in microsoft store) if you havent already.
+4b. Open Command Prompt/Terminal (search in start)</pre>
 enter these commands:
+<br>
 <code>cd Downloads</code>
+<br>
 <code>cd CS Revision Test v1.0 </code>
+<br>
 <code> CS Revision Test v1.0</code>
+<br>
 <code>python main.py</code>
 
 <h3>Online:</h3>
