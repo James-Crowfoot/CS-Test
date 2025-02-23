@@ -1,8 +1,8 @@
 <h3>LOCAL: (Windows)</h3>
-<p>1. Download .zip file</p>
-<p>2. Extract Contents</p>
+<p>1. Download .zip file
+2. Extract Contents</p>
 <p>Either</p>
-<p>3a. Open and run main.py in your python IDE of choice, such as thonny or VS Code.</p>
+3a. Open and run main.py in your python IDE of choice, such as thonny or VS Code.</
 Or
 <p>Install Latest Version of Python 3 (Available in microsoft store) if you havent already.</p>
 <p>Open Command Prompt/Terminal (search in start)</p>
