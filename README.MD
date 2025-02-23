@@ -4,8 +4,8 @@
 Either
 3a. Open and run main.py in your python IDE of choice, such as thonny or VS Code.<p>
 Or
-<pre>3b. Install Latest Version of Python 3 (Available in microsoft store) if you havent already.
-4b. Open Command Prompt/Terminal (search in start)</pre>
+3b. Install Latest Version of Python 3 (Available in microsoft store) if you havent already.
+4b. Open Command Prompt/Terminal (search in start)
 enter these commands:
 </pre>
 <code>cd Downloads</code>
