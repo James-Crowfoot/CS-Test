@@ -1,4 +1,4 @@
-038 Questions
+070 Questions
 4,Name 4 IO devices,KEYBOARD,MOUSE,MONITOR,SPEAKERS,PRINTER,PRINTERS,SPEAKERS,34070
 1,What does CPU stand for,CENTRAL PROCESSING UNIT,CENTRAL PROCESSER UNIT,34070
 1,What does GPU stand for,GRAPHICS PROCESSING UNIT,GRAPHIC PROCESSING UNIT,GRAPHICAL PROCESSING UNIT,34070
@@ -37,4 +37,36 @@
 1,What are HDDs easily damaged by,SHOCKS,34070
 3,Give 3 properties of HDDs,CHEAP,SLOW,RELIABLE,HIGH CAPACITY,NOT ROBUST,34070
 2,Give 2 examples of magnetic storage,HDD,MAGNETIC TAPE,CASSETTE TAPES,34070
+1,What Process occurs when the RAM is full,VIRTUAL MEMORY,VM,34070
+3,Give 3 Properties of Optical Media,LOW COST,CHEAP,RELIABLE,LOW CAPACITY,SLOW,34070
+2,Name 2 Optical Disks,CD,DVD,BR,BLU-RAY,34070
+2,Name 2 Types of optical disk,READ ONLY MEMORY,ROM,R,WRITE ONCE,READ WRITE,RW,34070
+3,Name the 3 Number bases we use in Computer Science,BINARY,DENARY,HEXADECIMAL,34070
+1,What is 1010 in denary,10,34070
+1,What is 1111 in denary,15,34070
+1,What is the largest value you can store wih 8 bits of binary,255,34070
+1,What is F in Denary,15,34070
+1,What is D in Binary,13,34070
+1,What is 10101110 in Hexadecimal,AE,34070
+1,What is The Hexadecimal number 69 in binary,01101001,34070
+1,Name 1 use of Hexadecimal,HTML,MAC ADDRESSES,COLOUR CODES,34070
+1,A Binary shift 1 place left multiplies the number by:,2,34070
+1,A Binary shift 2 places right divides the number by:,4,34070
+1,Name a character set,ASCII,UNICODE,34070
+1,How many bits does ASCII use to store each character,7,34070
+1,Which is larger - Unicode or ASCII,UNICODE,34070
+1,Name a type of image,BITMAP,VECTOR,34070
+2,Name 2 Image file formats - answer format: exe or html dont use a dot,JPG,JPEG,PNG,SVG,GIF,34070
+1,The amount of bits used to store the colour of each pixel in an image is known as what,PIXEL DEPTH,34070
+1,How many Pixels there are in an image is known as what,RESOLUTION,34070
+1,What is extra data that is added to an image file known as,METADATA,34070
+1,When a Computer records a sound what does it measure,AMPLITUDE,34070
+1,Number of bits used to store each sound sample is known as what,SAMPLE SIZE,34070
+1,Number of sound samples taken per second is known as what,SAMPLE RATE,34070
+1,Increasing the Sample size increases what,QUALITY,AUDIO QUALITY,SIZE,FILE SIZE,34070
+1,What type of compression is used for Images,LOSSY,34070
+1,What type of compression is used for text files and code,LOSSLESS,34070
+1,What are the two types of compression,LOSSY,LOSSLESS,34070
+1,Which type of compression reduces the file size the most,LOSSY,34070
+1,What does compression do to a file size - Increase/Decrease,DECREASE,34070
 
