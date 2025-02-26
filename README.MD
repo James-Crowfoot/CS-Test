@@ -1,4 +1,5 @@
 <h3>LOCAL: (Windows)</h3>
+<h4>Method 1 - .zip </h4>
 <pre>1. Download .zip file
 2. Extract Contents
 Either
@@ -15,6 +16,10 @@ enter these commands:
 <code> CS Revision Test v1.0</code>
 <br>
 <code>python main.py</code>
+
+<h4>Method 2 - .exe</h4>
+Double click the .exe file and it will open its built in extraction tool.
+D0 Steps 3 onwards of Method 1
 
 <h3>Online:</h3>
 <p>Open CS Revision Test v1.0 folder (Not .zip file) in this github repository, and transfer each file to the online IDE such as replit and run main.py</p>
