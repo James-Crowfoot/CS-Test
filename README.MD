@@ -1,5 +1,15 @@
 <h3>LOCAL: (Windows)</h3>
-<h4>Method 1 - .zip </h4>
+
+<h4>Method 1 - Most recent Updates</h4>
+<pre>Individualy download each file 
+open terminal
+enter these commands
+cd nameofmainfolderwherefolderlocated  e.g cd documents
+cd nameoffolderwherefileslocated  e.g cd cstest
+python main.py
+
+</pre>
+<h4>Method 2 - .zip </h4>
 <pre>1. Download .zip file
 2. Extract Contents
 Either
@@ -17,7 +27,7 @@ enter these commands:
 <br>
 <code>python main.py</code>
 
-<h4>Method 2 - .exe</h4>
+<h4>Method 3 - .exe</h4>
 Double click the .exe file and it will open its built in extraction tool.
 D0 Steps 3 onwards of Method 1
 
