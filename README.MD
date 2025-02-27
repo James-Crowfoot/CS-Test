@@ -10,7 +10,7 @@ python main.py
 
 </pre>
 <h4>Method 2 - .zip </h4>
-<a href="https://download-directory.github.io/?url=https%3A%2F%2Fgithub.com%2FJames-Crowfoot%2FCS-Test%2Ftree%2Fmain%2FCS%2520Revision%2520Test%2520v1.0">Link to dowload Most recent update as a .zip file</a>
+<a href="https://download-directory.github.io/?url=https%3A%2F%2Fgithub.com%2FJames-Crowfoot%2FCS-Test%2Ftree%2Fmain%2FCS%2520Revision%2520Test%2520v1.3">Link to dowload Most recent update as a .zip file</a>
 <pre>1. Download .zip file
 2. Extract Contents
 Either
