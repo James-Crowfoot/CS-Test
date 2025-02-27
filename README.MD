@@ -10,6 +10,7 @@ python main.py
 
 </pre>
 <h4>Method 2 - .zip </h4>
+<a href="https://download-directory.github.io/?url=https%3A%2F%2Fgithub.com%2FJames-Crowfoot%2FCS-Test%2Ftree%2Fmain%2FCS%2520Revision%2520Test%2520v1.0">Link to dowload Most recent update as a .zip file</a>
 <pre>1. Download .zip file
 2. Extract Contents
 Either
@@ -29,9 +30,8 @@ enter these commands:
 
 <h4>Method 3 - .exe</h4>
 Double click the .exe file and it will open its built in extraction tool.
-D0 Steps 3 onwards of Method 1
+Do Steps 3 onwards of Method 1
 
-<a href="https://download-directory.github.io/?url=https%3A%2F%2Fgithub.com%2FJames-Crowfoot%2FCS-Test%2Ftree%2Fmain%2FCS%2520Revision%2520Test%2520v1.0">Link to dowload Most recent update as a .zip file</a>
 
 <h3>Online:</h3>
 <p>Open CS Revision Test v1.0 folder (Not .zip file) in this github repository, and transfer each file to the online IDE such as replit and run main.py</p>
