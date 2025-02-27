@@ -1,2 +1,10 @@
-070 Questions
-1,question,ANSWER,34070
+009 Questions
+1,What is the name of the techniue where you simplify a problem by removing unnecessary details,ABSTRACTION,34070
+1,What is the name for breaking a complex problem into smaller more manageable sub programs,DEMOMPOSITION,34070
+1,What is an algorithm,A SET OF INSTRUCTIONS,A REUSABLE SET OF INSTRUCTIONS,A REUSABLE SET OF INSTRUCTIONS TO SOLVE A GIVEN PROBLEM,34070
+1,Is pseudocode a programming language,NO,34070
+1,What can pseudocode be used for,PLANNING,34070
+1,In flow diagrams what shape is used at the start/end,OVAL,34070
+1,In flow diagrams what shape is used for processes,RECTANGLE,34070
+1,In flow diagrams what shape is used for inputs/outputs,PARALLELOGRAM,34070
+1,In flow diagrams what shape is used for decisions,DIAMOND,34070
