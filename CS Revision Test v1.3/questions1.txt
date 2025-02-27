@@ -1,0 +1,72 @@
+070 Questions
+4,Name 4 IO devices,KEYBOARD,MOUSE,MONITOR,SPEAKERS,PRINTER,PRINTERS,SPEAKERS,34070
+1,What does CPU stand for,CENTRAL PROCESSING UNIT,CENTRAL PROCESSER UNIT,34070
+1,What does GPU stand for,GRAPHICS PROCESSING UNIT,GRAPHIC PROCESSING UNIT,GRAPHICAL PROCESSING UNIT,34070
+2,What are the two main types of primary storage,RAM,ROM,34070
+2,What do RAM and ROM stand for,RANDOM ACCESS MEMORY,READ ONLY MEMORY,34070
+4,Name 4 types of secondary storage,HDD,SSD,CD,HARD DISK DRIVE,SOLID STATE DRIVE,OPTICAL DISK,COMPACT DISK,DVD,FLASH DRIVE,34070
+2,Name 2 things computer memory stores,DATA,INSTRUCTIONS,34070
+2,Name 2 devices with embedded systems,WASHING MACHINE,MICROWAVE,SAT-NAV,SAT NAV,CAMERA,DIGITAL CAMERA,DIGITAL CLOCK,34070
+4,Name the 4 components of Von Neumann Architecture,ALU,CPU,CU,REGISTERS,34070
+1,What does the CU stand for,CONTROL UNIT,34070
+1,What does the ALU stand for,ARITHMETIC LOGIC UNIT,34070
+1,Which is fastest; RAM or Registers,REGISTERS
+3,Give 3 Examples of what arithmetic and logical oprtations the ALU performs,ADDITION,MULTIPLICATION,DIVISION,SUBTRACTION,BOOLEAN OPERATIONS,COMPARISONS,34070
+1,Correctly order these steps, Decode-Execute-Fetch (Answer with same format),FETCH-DECODE-EXECUTE,34070
+1,Is RAM volatile or non volatile,VOLATILE,34070
+4,What are the acronyms for the 4 types of register in the CPU,PC,ACC,MAR,MDR,34070
+4,What is the full name for the 4 types of register in the CPU,PROGRAM COUNTER,ACCUMULATOR,MEMORY ADDRESS REGISTER,MEMORY DATA REGISTER,34070
+3,Which parts of the CPU are used during the Fetch Process - Use Acronyms,PC,MAR,MDR,34070
+1,Which part of the CPU is used in the Decode Process,CU,34070
+1,What part of the CPU is used in the Execute Process,ALU,34070
+3,What factors affect the CPU performance,CLOCK SPEED,NUMBER OF CORES,CACHE SIZE,34070
+1,What is the largest number that can be stored in 8 bits,255,34070
+1,Is ROM Volatile or Non Volatile,NON VOLATILE,34070
+1,Where is the Bootstrap stored,ROM,34070
+2,Name 2 Types of memory that are a form of flash memory,ROM,EEPROM,SSD,SD CARDS,34070
+1,Is Flash Memory Volatile or Non Volatile,NON VOLATILE,34070
+1,Are SSDs faster or slower than HDDs,FASTER,34070
+1,Name a use application of SSDs that takes use of its durability,INDUSTRIAL MACHINERY,MACHINERY,VEHICLES,CARS,VEHICLES,34070
+2,Virtual memory is a technique where we use ___1___ storage as if it were ___2___,SECONDARY,RAM,34070
+1,What is the smallest unit of data called,BIT,A BIT,34070
+1,How many bits is a nibble,4,34070
+1,How many bits are in a byte,8,34070
+1,How many bytes are there in a KB (Kilobyte),1000,34070
+1,How many KB are there in a GB,1000000,34070
+3,Give 3 Properties of Solid State Drives,RELIABLE,ROBUST,GOOD CAPACITY,EXPENSIVE,FAST,34070
+1,What are HDDs easily damaged by,SHOCKS,34070
+3,Give 3 properties of HDDs,CHEAP,SLOW,RELIABLE,HIGH CAPACITY,NOT ROBUST,34070
+2,Give 2 examples of magnetic storage,HDD,MAGNETIC TAPE,CASSETTE TAPES,34070
+1,What Process occurs when the RAM is full,VIRTUAL MEMORY,VM,34070
+3,Give 3 Properties of Optical Media,LOW COST,CHEAP,RELIABLE,LOW CAPACITY,SLOW,34070
+2,Name 2 Optical Disks,CD,DVD,BR,BLU-RAY,34070
+2,Name 2 Types of optical disk,READ ONLY MEMORY,ROM,R,WRITE ONCE,READ WRITE,RW,34070
+3,Name the 3 Number bases we use in Computer Science,BINARY,DENARY,HEXADECIMAL,34070
+1,What is 1010 in denary,10,34070
+1,What is 1111 in denary,15,34070
+1,What is the largest value you can store wih 8 bits of binary,255,34070
+1,What is F in Denary,15,34070
+1,What is D in Binary,13,34070
+1,What is 10101110 in Hexadecimal,AE,34070
+1,What is The Hexadecimal number 69 in binary,01101001,34070
+1,Name 1 use of Hexadecimal,HTML,MAC ADDRESSES,COLOUR CODES,34070
+1,A Binary shift 1 place left multiplies the number by:,2,34070
+1,A Binary shift 2 places right divides the number by:,4,34070
+1,Name a character set,ASCII,UNICODE,34070
+1,How many bits does ASCII use to store each character,7,34070
+1,Which is larger - Unicode or ASCII,UNICODE,34070
+1,Name a type of image,BITMAP,VECTOR,34070
+2,Name 2 Image file formats - answer format: exe or html dont use a dot,JPG,JPEG,PNG,SVG,GIF,34070
+1,The amount of bits used to store the colour of each pixel in an image is known as what,PIXEL DEPTH,34070
+1,How many Pixels there are in an image is known as what,RESOLUTION,34070
+1,What is extra data that is added to an image file known as,METADATA,34070
+1,When a Computer records a sound what does it measure,AMPLITUDE,34070
+1,Number of bits used to store each sound sample is known as what,SAMPLE SIZE,34070
+1,Number of sound samples taken per second is known as what,SAMPLE RATE,34070
+1,Increasing the Sample size increases what,QUALITY,AUDIO QUALITY,SIZE,FILE SIZE,34070
+1,What type of compression is used for Images,LOSSY,34070
+1,What type of compression is used for text files and code,LOSSLESS,34070
+1,What are the two types of compression,LOSSY,LOSSLESS,34070
+1,Which type of compression reduces the file size the most,LOSSY,34070
+1,What does compression do to a file size - Increase/Decrease,DECREASE,34070
+
