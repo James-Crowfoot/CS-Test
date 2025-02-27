@@ -3,6 +3,7 @@ from functions import *
 from colorama import *
 from math import trunc
 from time import sleep
+import sys
 
 print("CSTv4\\")
 
@@ -19,7 +20,15 @@ print("                                                     |_|                 
 sleep(2)
 
 # Import Questions
-file = open("questions.txt","rt")
+cyan("Which Paper do you want to revise - 1 Computer Systems , or 2 Algorithmic Thinking, enter 1 or 2.")
+if "1" in input():
+    file = open("questions1.txt","rt")
+elif "2" in input():
+    file = open("questions2.txt","rt")
+else:
+    red("Invalid input, enter either 1 or 2")
+    sys.exit("Please Restart Program")
+
 questions = []
 length = file.readline()
 length = int(length[0:3])
