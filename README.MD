@@ -1,3 +1,7 @@
+<h2>How to download and run program</h2>
+
+The most up to date version will be in the folder. You can copy and paste code into your current version if needed.
+
 <h3>LOCAL: (Windows)</h3>
 
 <h4>Method 1 - Most recent Updates</h4>
