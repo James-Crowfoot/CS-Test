@@ -1,4 +1,4 @@
-040 Questions
+047 Questions
 1,What is the name of the techniue where you simplify a problem by removing unnecessary details,ABSTRACTION,34070
 1,What is the name for breaking a complex problem into smaller more manageable sub programs,DEMOMPOSITION,34070
 1,What is an algorithm,A SET OF INSTRUCTIONS,A REUSABLE SET OF INSTRUCTIONS,A REUSABLE SET OF INSTRUCTIONS TO SOLVE A GIVEN PROBLEM,34070
@@ -39,3 +39,11 @@
 1,What is the name of the technique which ensures input data meets certain criteria,INPUT VALIDATION,VALIDATION,34070
 2,Give 2 methods which improve code maintainablility,COMMENTS,INDENTATION,IDENTIFIER NAMES,CODE STRUCTURE,WHITE SPACE,34070
 1,What symbol is used to create a single line comment,#,34070
+2,Name 2 methods to improve code maintainability,COMMENTS,SUBROUTINES,WHITESPACE,CONSTANTS,INDENTATION,34070
+1,What data type is 3,INTEGER,INT,34070
+1,What data type is 3.1415,FLOAT,REAL,34070
+1,What data type is True,BOOLEAN,34070
+1,What data type is "one",STRING,34070
+1,What is an example of a Low Level Language,ASSEMBLY,MACHINE CODE,34070
+1,What is an example of a High Level Language,PYTHON,C++,C#,C,HTML,JAVA,JAVASCRIPT,RUST,RUBY,CSS,34070
+
